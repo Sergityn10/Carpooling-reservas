@@ -1,0 +1,6 @@
+incubadora\carpoolingreservas\Entities\ReservaEntity.class
+incubadora\carpoolingreservas\Model\Reserva.class
+incubadora\carpoolingreservas\CarpoolingReservasApplication.class
+incubadora\carpoolingreservas\Repositories\ReservaRepository.class
+incubadora\carpoolingreservas\API\ReservaController.class
+incubadora\carpoolingreservas\Mapper\ReservaMapper.class
